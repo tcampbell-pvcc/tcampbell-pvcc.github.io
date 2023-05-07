@@ -45,7 +45,7 @@ def display_results():
     print('BROWNSVILLE BAGEL COMPANY')
     print('Fresh-baked bagels every day!')
     print('______________________________')
-    print('Bagels       $ ' + format(cost_bagels,'8,.2f'))
+    print('Bagels       $ ' + format(cost_bagels, 8,.2f'))
     print('Cream cheese $ ' + str(cost_creamch))
     print('_ _ _ _ _ _ _ _ _ _ _ _ _ _ _')
     print('subtotal     $ ' + str(subtotal))
